@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mate Preguntas</string>
+    <string name="btn_verdadero">Verdad</string>
+    <string name="btn_falso">Falso</string>
+    <string name="btn_trampa">Hacer Trampa</string>
+    <string name="btn_atras">Atras</string>
+    <string name="btn_adelante">Adelante</string>
+    <string name="tv_trampa">¿Estás seguro de hacer trampa?</string>
+    <string name="tv_mostrar_respuesta">Mostrar Respuesta</string>
+    <string name="respuesta_correcta">Correcto!</string>
+    <string name="respuesta_incorrecta">Incorrecto!</string>
+    <string name="es_trrampa">Hacer trampa es malo!</string>
+    //Preguntas
+    <string name="primera_pregunta">3 * 5 = 20</string>
+    <string name="segunda_pregunta">10 * 5 = 50</string>
+    <string name="tercera_pregunta">20 * 20 = 400</string>
+    <string name="cuarta_pregunta">2 * 9 = 18</string>
+    <string name="quinta_pregunta">1 * 1 = 0</string>
+
+</resources>
